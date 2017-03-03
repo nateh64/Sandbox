@@ -1,0 +1,30 @@
+/*Removes default on the body-tag*/
+body{
+    margin:0;
+}
+
+header{
+    height: 100px;
+    width: inherit;
+    background: red;
+    font-size: 5
+    border: 5px solid black;
+}
+
+article{
+    height: 400px;
+    width: inherit;
+    background: inherit;
+    border: 5px solid black;
+}
+
+div{
+    height: inherit;
+    width: 49%;
+    float: left;
+    border: 5px solid black;
+}
+
+.blue {
+    background: blue;
+}
