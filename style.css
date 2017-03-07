@@ -22,7 +22,14 @@ div{
     height: inherit;
     width: 49%;
     float: left;
-    border: 5px solid black;
+}
+.left-article{
+  border-right: 8px solid black;
+}
+.smallPanel{
+  height: 50px;
+  width: inherit;
+  border: 10px solid black;
 }
 
 .blue {
